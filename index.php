@@ -21,7 +21,10 @@ include 'partials/head.php';
 	  	<h1 class="heading" data-target-resolver></h1>
 	</div>
 	<div class="portfolio">
-		<a href="https://vbonite.github.io/b3n-bonite-vlad/csp1/index.html#">Capstone Project 1</a>
+		<a href="https://vbonite.github.io/b3n-bonite-vlad/csp1/index.html">Capstone Project 1</a>
+	</div>
+	<div class="portfolio">
+		<a href="https://manph.000webhostapp.com/index.php">Capstone Project 2</a>
 	</div>
 
 
